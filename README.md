@@ -156,3 +156,9 @@ http://www.rleonardi.com/interactive-resume/
 [Imagens] https://unsplash.com/
 
 [Imagens] https://pixabay.com/pt/
+
+---
+
+### Me adicionem no Linkedin:
+[![LinkedIn](/img/linkedin.png "LinkedIn")](https://www.linkedin.com/in/milenayamamoto/)
+ https://www.linkedin.com/in/milenayamamoto/
