@@ -1,21 +1,24 @@
-Developer Roadmap: 
+# Developer Roadmap: 
 
-O que estudar? Qual caminho seguir? Mapa completo de devs web (frontend, backend e devOps)
+## O que estudar? Qual caminho seguir? Mapa completo de devs web (frontend, backend e devOps)
 
 https://github.com/kamranahmedse/developer-roadmap
 
+[![Desenvolvimento web roadmap](/img/roadmap.png "Desenvolvimento web roadmap")](https://github.com/kamranahmedse/developer-roadmap)
 
 
+---
 
+# Qual tecnologias utilizar? Stacks das grandes empresas:
 
-
-
-Qual tecnologias utilizar? Stacks das grandes empresas:
 https://stackshare.io/
 
+[![Stacks de empresas](/img/stacks.png "Stacks de empresas")](https://stackshare.io/)
 
 
-Cursos Grátis:
+---
+
+# Cursos Grátis:
 
 [PT-BR] https://loiane.training/
 
@@ -38,9 +41,9 @@ Cursos Grátis:
 [MIT - inglês] https://ocw.mit.edu/courses/intro-programming/
 
 
+---
 
-
-Se preparando para as vagas (entrevistas e exercícios)
+# Se preparando para as vagas (entrevistas e exercícios)
 
 [Perguntas Front-End] https://github.com/h5bp/Front-end-Developer-Interview-Questions
 
@@ -65,7 +68,10 @@ Se preparando para as vagas (entrevistas e exercícios)
 [Soluções Codility] https://gist.github.com/lalkmim/e04845eb9d1c5936622a
 
 
-Portfólios de inspiração
+---
+
+# Portfólios de inspiração
+
 https://jacekjeznach.com/wall/
 
 http://www.rleonardi.com/interactive-resume/
@@ -74,7 +80,10 @@ http://www.rleonardi.com/interactive-resume/
 
 [Referências de sites] https://www.awwwards.com/
 
-Vagas BR
+
+---
+
+# Vagas BR
 
 [Front-End] https://github.com/frontendbr/vagas/issues
 
@@ -85,10 +94,9 @@ Vagas BR
 [QA] https://github.com/qa-brasil/vagas
 
 
+---
 
-
-
-Utilitários
+# Utilitários
 
 [Editor de códigos / Referência para códigos prontos] https://codepen.io/
 
@@ -119,8 +127,9 @@ Utilitários
 [Teste de velocidade de sites] https://www.thinkwithgoogle.com/intl/pt-br/feature/testmysite/
 
 
+---
 
-Ilustrações && Imagens && Ícones
+# Ilustrações && Imagens && Ícones
 
 [Ilustrações] https://undraw.co/
 
@@ -147,6 +156,3 @@ Ilustrações && Imagens && Ícones
 [Imagens] https://unsplash.com/
 
 [Imagens] https://pixabay.com/pt/
-
-
-
