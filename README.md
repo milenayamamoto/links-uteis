@@ -126,6 +126,19 @@ http://www.rleonardi.com/interactive-resume/
 
 [Teste de velocidade de sites] https://www.thinkwithgoogle.com/intl/pt-br/feature/testmysite/
 
+---
+
+# Extensões para browser
+
+[Medium Unlimited] https://github.com/manojVivek/medium-unlimited
+
+[JSON Viewer] https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh?hl=pt-BR
+
+[React DevTools] https://pt-br.reactjs.org/blog/2019/08/15/new-react-devtools.html
+
+[Redux DevTools] https://github.com/reduxjs/redux-devtools
+
+[Grid Ruler] https://chrome.google.com/webstore/detail/grid-ruler/joadogiaiabhmggdifljlpkclnpfncmj?hl=pt-BR
 
 ---
 
@@ -156,6 +169,26 @@ http://www.rleonardi.com/interactive-resume/
 [Imagens] https://unsplash.com/
 
 [Imagens] https://pixabay.com/pt/
+
+---
+
+# Design Systems
+
+[O que é?] https://brasil.uxdesign.cc/entendendo-design-system-f375bbb6f704
+
+[Repositório de design systems e bibliotecas de padrões] http://adele.uxpin.com/
+
+---
+
+# Livros (em inglês)
+
+[Atomic Design] https://github.com/bradfrost/atomic-design
+
+[You Don't Know JS] https://github.com/cezaraugusto/You-Dont-Know-JS
+
+[Eloquent] https://eloquentjavascript.net/
+
+[Eloquent tradução PT-BR] https://github.com/braziljs/eloquente-javascript
 
 ---
 
