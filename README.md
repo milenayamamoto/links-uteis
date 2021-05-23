@@ -106,6 +106,10 @@ http://www.rleonardi.com/interactive-resume/
 
 [Gradientes CSS] https://uigradients.com/
 
+[Neumorfism CSS] https://neumorphism.io/
+
+[Glassmorfim CSS] https://glassmorphism.com/
+
 [Tutoriais] https://tympanus.net/codrops/
 
 [Logo Maker] https://logomakr.com/
@@ -128,6 +132,8 @@ http://www.rleonardi.com/interactive-resume/
 
 [Teste de velocidade de sites] https://www.thinkwithgoogle.com/intl/pt-br/feature/testmysite/
 
+[Inspirações de UI] https://codemyui.com/
+
 ---
 
 # Extensões para browser
@@ -141,6 +147,8 @@ http://www.rleonardi.com/interactive-resume/
 [Redux DevTools] https://github.com/reduxjs/redux-devtools
 
 [Grid Ruler] https://chrome.google.com/webstore/detail/grid-ruler/joadogiaiabhmggdifljlpkclnpfncmj?hl=pt-BR
+
+[Acessibilidade] https://chrome.google.com/webstore/detail/accessibility-insights-fo/pbjjkligggfmakdaogkfomddhfmpjeni
 
 ---
 
